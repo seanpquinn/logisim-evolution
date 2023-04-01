@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=logisim-evolution
+Name=Logisim Evolution
 Comment=Logisim-evolution is educational software for designing and simulating digital logic circuits.
 GenericName=Digital logic design tool and simulator
 Exec=logisim-evolution %f
